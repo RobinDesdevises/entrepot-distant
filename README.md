@@ -1,2 +1,3 @@
 # entrepot-distant
-vas y
+
+Initialisation du fichier
